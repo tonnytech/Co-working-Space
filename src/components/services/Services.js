@@ -4,7 +4,7 @@ import "./services.css";
 
 const Services = () => {
   return (
-    <section className="services">
+    <section className="services" id="services">
       <div className="services__infoContainer">
         <div className="services__title">
           <div className="services__numbers">03</div>
@@ -14,14 +14,13 @@ const Services = () => {
         <div className="services__titleAndParagraph">
           <h2>Your comfort is our priority</h2>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s. Lorem Ipsum is simply dummy text of the
-            printing and typesetting industry.
+          Indulge in productivity and relaxation at 
+          our premium coworking space. Elevating your workday,
+           we ensure top-notch comfort and lightning-fast internet,
+            because your comfort is our unwavering commitment.
           </p>
           <p>
-            Lorem Ipsum has been the industry's standard dummy text ever since
-            the 1500s.
+          Experience seamless workdays with our exceptional amenities.
           </p>
         </div>
         <div className="services__grid">

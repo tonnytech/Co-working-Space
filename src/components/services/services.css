@@ -91,3 +91,9 @@
         gap: 1rem;
     }
 }
+
+@media screen and (min-width: 992px) {
+  .services__titleAndParagraph {
+    margin-left: 10rem;
+  }
+}

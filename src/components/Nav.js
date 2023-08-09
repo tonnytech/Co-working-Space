@@ -49,13 +49,13 @@ scrollStyle= 'nav navbar-fixed'
               <a href="#"> home</a>
             </li>
             <li>
-              <a href="#"> about</a>
+              <a href="#about"> about</a>
             </li>
             <li>
-              <a href="#"> projects</a>
+              <a href="#services">Services</a>
             </li>
             <li>
-              <a href="#"> contact</a>
+              <a href="#membership"> Membership</a>
             </li>
           </ul>
         </div>

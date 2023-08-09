@@ -12,10 +12,11 @@ const Hero = () => {
             <span className="hero__headingTwo">New Office</span>
           </h1>
           <p className="hero__description">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s.
+          Discover the ultimate workspace in Rongai.
+           Elevate productivity and collaboration at
+            our premium coworking destination.
           </p>
+          <p className="hero__description">Join us today!</p>
           {/* social icons */}
           <ul className="social-icons">
             <li>

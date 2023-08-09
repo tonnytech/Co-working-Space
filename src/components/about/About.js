@@ -5,7 +5,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <section className="about__section">
+    <section className="about__section" id="about">
       <div className="about__imageContainer">
         <img src={aboutImage} className="about__imageElement" />
       </div>
@@ -19,13 +19,12 @@ const About = () => {
           <div className="about__infoDetailsContainer">
             <h2> We are build for business</h2>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s. 
+            Empower your business at Rongai Coworking. Designed for success with a serene ambiance,
+             dedicated workspaces, and uninterrupted power – your ideal professional hub awaits. 
             </p>
             <p>
-            Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s.
+            Experience seamless connectivity with our blazing-fast 
+            internet, propelling your productivity at Rongai Coworking.
             </p>
             <button className="btn"> Contact us</button>
           </div>
