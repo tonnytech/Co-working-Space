@@ -1,0 +1,22 @@
+.map__section {
+    margin-top: 5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.map__section__title {
+    margin-bottom: 2rem;
+}
+
+.mapElement__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.map {
+    width: 50rem;
+    height: 35rem;
+}
